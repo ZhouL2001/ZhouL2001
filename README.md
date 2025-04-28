@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ling Zhou.
 - 👀 I’m interested in Computer Vision.
-- 🌱 I’m got my BE degree from ChangZhou University in 2024, and I am persuing my MS degree at Fudan University.
+- 🌱 I am now persuing my MS degree at Fudan University.
 - 📫 zhoul9090@gmail.com
 
 <!---
